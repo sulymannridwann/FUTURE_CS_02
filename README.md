@@ -90,7 +90,7 @@ It reflects my hands-on understanding of what SOC teams do daily to protect digi
 ## 📬 Contact
 
 - 📧 Email: [rsulyman19@gmail.com](mailto:rsulyman19@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ridwan-sulyman-b83b2b341 ]
+- 🔗 LinkedIn: [linkedin.com/in/ridwan-sulyman-b83b2b341](https://linkedin.com/in/ridwan-sulyman-b83b2b341)
 
 ---
 
